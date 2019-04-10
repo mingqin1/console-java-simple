@@ -31,7 +31,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>chapter.Sect5_Ex2</mainClass>
+                            <mainClass>chapter2.Sect6_Ex1</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
