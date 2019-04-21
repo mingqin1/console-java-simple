@@ -6,7 +6,7 @@ public class Sect4_Ex1
     public static void main(String[] args)
     {
 
-        String t=null, u="Hello";
+        String t=null, u="Hello2";
 
         String s = Optional.ofNullable(t)   // Optional has null
                 .orElse(u);      // Optional has "Hello"
