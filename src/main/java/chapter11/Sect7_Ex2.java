@@ -9,12 +9,3 @@ public class Sect7_Ex2
         o1.ifPresent(x -> System.out.println(x)); // Prints 2
     }
 }
-
-
-
-//  o1.ifPresent(new Consumer<Integer>() {
-//  @Override
-//   public void accept(Integer x) {
-//        ++x;
-//        }
-//        });
